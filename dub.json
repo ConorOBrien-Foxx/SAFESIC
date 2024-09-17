@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Conor O'Brien"
+	],
+	"copyright": "Copyright © 2024, Conor O'Brien",
+	"description": "A safe language for a safe age.",
+	"license": "GPL-3.0-or-later",
+	"name": "safesic"
+}
